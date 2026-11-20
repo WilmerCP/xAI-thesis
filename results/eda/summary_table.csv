@@ -1,0 +1,4 @@
+dataset,rows,features,numerical,categorical,missing,duplicates,class_0,class_1,imbalance_ratio
+Breast Cancer Wisconsin,569,30,30,0,0,0,212,357,1.68
+German Credit,1000,20,7,13,0,0,700,300,2.33
+Synthetic,1000,10,10,0,0,0,481,519,1.08
